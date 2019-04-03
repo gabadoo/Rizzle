@@ -42,7 +42,11 @@ export default class HomeScreen extends React.Component {
             </View>
 
             <Text style={styles.getStartedText}>
+<<<<<<< HEAD
               Ralf was here
+=======
+              GABATRON WAS HERE.
+>>>>>>> 561df5f0036b95b48ec22cc9c6c92b1e69bc582a
             </Text>
           </View>
 

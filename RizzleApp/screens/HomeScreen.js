@@ -42,7 +42,7 @@ export default class HomeScreen extends React.Component {
             </View>
 
             <Text style={styles.getStartedText}>
-              ASTRID RIVERA WAS HERe.
+              Ralf was here
             </Text>
           </View>
 

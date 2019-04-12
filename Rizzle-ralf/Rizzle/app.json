@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "new log-in app",
-    "slug": "new-log-in",
+    "name": "Rizzle",
+    "slug": "Rizzle",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -12,9 +12,9 @@
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "splash": {
-      "image": "./assets/images/icon.png",
+      "image": "./assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "blue"
+      "backgroundColor": "#ffffff"
     },
     "updates": {
       "fallbackToCacheTimeout": 0

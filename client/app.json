@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Rizzle",
-    "slug": "RizzleApp",
+    "name": "new log-in app",
+    "slug": "new-log-in",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -10,11 +10,11 @@
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/mia.JPG",
     "splash": {
-      "image": "./assets/images/splash.png",
+      "image": "./assets/images/mia.JPG",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "blue"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
